@@ -1,4 +1,4 @@
-![](./Frosty%20February.png)
+![](https://images.ctfassets.net/aq13lwl6616q/3gIZatZY4leFni6xmupkoe/42b2e4e8fc6223e09920e40a08c5cec2/snowman-2021360.png?w=800&q=50)
 
 ## What Is Frosty February?
 
