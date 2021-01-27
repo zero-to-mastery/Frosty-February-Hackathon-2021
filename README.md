@@ -18,7 +18,7 @@ Ready to apply? Awesome, you can find the [application here](https://forms.googl
 
 You can see the projects available for you to join below that will be run/lead by a Star Mentor!
 
-#### [![](https://img.shields.io/badge/SVELTE%20PROJECT-KANBAN%20BOARD%20-ffd542?style=for-the-badge&logo=Python)](https://github.com/brittneypostma/kanban-board)
+#### [![](https://img.shields.io/badge/SVELTE%20PROJECT-KANBAN%20BOARD%20-ffd542?style=for-the-badge&logo=Svelte)](https://github.com/brittneypostma/kanban-board)
 
 > Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
 >
@@ -26,7 +26,7 @@ You can see the projects available for you to join below that will be run/lead b
 
 
 
-#### [![](https://img.shields.io/badge/GATSBY%20PROJECT-ZtM%20COMMUNITY%20BLOG%20POSTING%20-blue?style=for-the-badge&logo=React)](https://github.com/r4pt0s/ztm-gatsby-netlify-cms-blog-starter)
+#### [![](https://img.shields.io/badge/GATSBY%20PROJECT-ZtM%20COMMUNITY%20BLOG%20POSTING%20-blue?style=for-the-badge&logo=Gatsby)](https://github.com/r4pt0s/ztm-gatsby-netlify-cms-blog-starter)
 
 > Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
 
