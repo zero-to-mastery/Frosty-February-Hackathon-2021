@@ -26,9 +26,18 @@ You can see the projects available for you to join below that will be run/lead b
 
 
 
-#### [![](https://img.shields.io/badge/GATSBY%20PROJECT-ZtM%20COMMUNITY%20BLOG%20POSTING%20-blue?style=for-the-badge&logo=Gatsby)](https://github.com/r4pt0s/ztm-gatsby-netlify-cms-blog-starter)
+#### [![](https://img.shields.io/badge/gatsby%20project-ztm%20gatsby%2Bnetlify%20cms%20starter%20-blue?style=for-the-badge&logo=Gatsby)](https://github.com/r4pt0s/ztm-gatsby-netlify-cms-blog-starter)
 
-> Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+> ### Main goal 🏁 
+>Main goal of this project is to create a new and up-to-date STARTER for a Gatsbyjs blog which gets data from MDX files.
+> ### Data sourcing 💿
+> A connector for Netlify CMS will be implemented to the starter which makes it easy to fill the blog with awesome posts.
+> Because the CMS is configurable as well, more ways to create pages and content will be one of the benfits with this starter. 
+> ### But why? 🤔
+> The idea was born because the "newest" version of a Gatsby+Netlify CMS starter on the official Gatsby get-started-template page got updated in 2018 which is kind of long time ago.
+> Also, a modern css framework should get implemented so that the blog is themable in an easy way via changing the values of a few CSS custom properties (CSS variables).
+> ### The feature 🤯
+> Of course, the most mind blowing and also important feature will be a DARK MODE toggle switch 😜
 
 [Project Repo](https://github.com/r4pt0s/ztm-gatsby-netlify-cms-blog-starter) 
 
