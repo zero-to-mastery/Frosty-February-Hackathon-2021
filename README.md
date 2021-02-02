@@ -27,7 +27,7 @@ You can see the projects available for you to join below that will be run/lead b
 > ### Technology 💻
 > Using Svelte 3 and styled with Tailwind 2.0, including dark mode. Hooks into local storage to keep track of all the things on your agenda.
 
-> [Project Repo](https://github.com/brittneypostma/kanban-board) 
+[Project Repo](https://github.com/brittneypostma/kanban-board) 
 
 
 #### [![](https://img.shields.io/badge/gatsby%20project-ztm%20gatsby%2Bnetlify%20cms%20starter%20-blue?style=for-the-badge&logo=Gatsby)](https://github.com/r4pt0s/ztm-gatsby-netlify-cms-blog-starter)
