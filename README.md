@@ -10,7 +10,7 @@ The goal is to gain experience working in teams, and building something together
 
 To make the projects manageable, the project teams will be limited in size. To ensure the sign up process is as fair as it can be, collaborators will be required to submit a small application. Each of the project's leaders will be choosing thier team from those that created a submisson. Selections will not be based on experience, the project leaders are looking for passionate and driven individuals that were able to demonstrate in their application how they will contribute to driving the project to completion. 
 
-Ready to apply? Awesome, you can find the [application here](https://forms.gle/DRmfroDE2K58KR338)
+Ready to apply? Awesome, you can find the [application here](https://forms.gle/PzHEEpkFEfdS8bjy6)
 
 # Zero To Mastery Hackathon Projects
 
