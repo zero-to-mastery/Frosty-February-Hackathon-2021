@@ -2,9 +2,7 @@
 
 ## What Is Frosty February?
 
-Welcome to Frosty February, an inaugural (first time) event! Which we aim to make a yearly Hackathon event for the Zero To Mastery community. So how does it work?
-
-**There are 6 projects, being led by some of your awesome Star Mentors in the Discord community. Each mentor will spend the month of February leading his or her team to complete the project they have designed to present back to the community on February 29th 2020!**
+Welcome to Frosty February 2021, the 2nd annual ZTM Hackathon! Whether you're a beginner or experienced developer, we have 2 coding projects that you can participate in led by Zero To Mastery Star Mentors. Each mentor(s) will spend the month of February leading their team to complete the project they have designed to present back to the community on February 29th 2021!**
 
 The goal is to gain experience working in teams, and building something together by the end of the month that you can be proud of and even hopefully put on your resume!
 
